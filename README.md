@@ -1,16 +1,19 @@
-### Hi there 👋
+**Hi there! Welcome to my GitHub Profile! 👋**
 
-<!--
-**brkkaya/brkkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate NLP engineer with a deep interest in Language Models (LLMs) and exploring their diverse applications. I love staying up-to-date with the latest research papers and leveraging cutting-edge technologies to develop high-quality solutions. My goal is to push the boundaries of NLP and create real-world impact through my work.
 
-Here are some ideas to get you started:
+**🔭 What I'm Working On:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fine-tuning LLMs for purpose-driven text generation
+- Developing text classification and sentiment analysis models
+- Exploring topic modeling to detect emerging trends on social media platforms
+
+**🌱 What I'm Learning:**
+
+I am currently diving deeper into the implementation of the aLiBi positional embedding for novel LLM architectures.
+
+**💬 Get in Touch:**
+
+I'm always excited to collaborate and discuss NLP-related projects or research. Feel free to reach out to me via email or connect on LinkedIn!
+
+Let's innovate and make a difference together! 😊
