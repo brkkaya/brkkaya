@@ -1,12 +1,11 @@
 **Hi there! Welcome to my GitHub Profile! 👋**
 
-I'm a passionate NLP engineer with a deep interest in Language Models (LLMs) and exploring their diverse applications. I love staying up-to-date with the latest research papers and leveraging cutting-edge technologies to develop high-quality solutions. My goal is to push the boundaries of NLP and create real-world impact through my work.
+I'm a passionate NLP engineer with a deep interest in Language Models (LLMs) and exploring their diverse applications. I love staying up-to-date with the latest research papers and leveraging cutting-edge technologies to develop high-quality solutions. My goal is to push the boundaries of NLP and create a real-world impact through my work.
 
 **🔭 What I'm Working On:**
 
 - Fine-tuning LLMs for purpose-driven text generation
 - Developing text classification and sentiment analysis models
-- Exploring topic modeling to detect emerging trends on social media platforms
 
 **🌱 What I'm Learning:**
 
